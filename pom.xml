@@ -238,7 +238,7 @@
         failures in the featureGeometryEncodingTesting test of ets-gpkg12.
         Accessing the rowid of a VIEW is disallowed from this version on
         see https://sqlite.org/releaselog/3_36_0.html -->
-        <version>3.35.0</version>
+        <version>3.41.2.2</version>
       </dependency>
       <dependency>
         <groupId>org.testng</groupId>
